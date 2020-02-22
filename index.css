@@ -4,7 +4,7 @@ body {
 
 #console {
 	font-family: Lucida Console, monospace;
-	style:italics;
+	style:italic;
 	color: #c0c0c0;
 	width:750px;
 	margin-left:auto;
