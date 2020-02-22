@@ -3,7 +3,7 @@
 <span id="a">unknown_user@log</span>:<span id="b">~</span><span id="c">$</span> loading boot sequence<br/><br/>
 <span id="k">WELCOME TO THE CITY OF OZ</span>
 <p>
-<a href=“https://www.youtube.com/watch?v=T5Xeat06R28”>XLNT CORP. PARTNERS WITH THE CITY OF OZ TO DEVELOP NEW GUARDIANS</a>
+<a href=https://www.youtube.com/watch?v=T5Xeat06R28>XLNT CORP. PARTNERS WITH THE CITY OF OZ TO DEVELOP NEW GUARDIANS</a>
 In a recent interview on the Late Night Show, XLNT Corp’s CEO reveals that they will be the manufacturing partner for the latest line of GUARDIANS. The partnership is to address the growing problem...(more)
 <p>
-<img src=“/img/news_dreampillad.gif”>
+<img src=/img/news_dreampillad.gif>
