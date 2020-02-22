@@ -14,8 +14,9 @@ body {
 }
 
 a {
-	color: #0bc;
+	color: #ff0000;
 	text-decoration: none;
+	style: italic;
 }
 
 #a {
@@ -31,7 +32,7 @@ a {
 }
 
 #k {
-    	animation: change 1s;
+    	animation: change 2s;
 }
 
 #op{
