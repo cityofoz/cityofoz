@@ -1,5 +1,5 @@
-<span style="font-size: 9">
-unknown_user#@log:<span id="b">~</span><span id="c">$</span> login CITYOFOZ_NET
+<span style="font-size: 8">
+unknown_user#@log:~$ login CITYOFOZ_NET
 </span>
 <span id="k">WELCOME TO THE CITY OF OZ</span>
 <p>
