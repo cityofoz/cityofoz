@@ -1,7 +1,7 @@
 <span style="font-size: 8">
 unknown_user#@log:~$ login CITYOFOZ_NET
 </span>
-<span id="k">WELCOME TO THE CITY OF OZ</span>
+<img src="img/header_cityofoz.gif">
 <p>
 <a href="https://www.youtube.com/watch?v=T5Xeat06R28" target="new">XLNT CORP. PARTNERS WITH THE CITY OF OZ TO DEVELOP NEW GUARDIANS</a>
 <span style="font-size: 10">In a recent interview on the Late Night Show, XLNT Corp’s CEO revealed that they will be the manufacturing partner for the latest line of GUARDIANS bringing their expieThe partnership is to address the growing problem...(more)</span>
@@ -11,3 +11,4 @@ unknown_user#@log:~$ login CITYOFOZ_NET
 <a href="https://www.youtube.com/watch?v=P1JpENUFANI" target="new">XLNT CORP. PARTNERS WITH THE CITY OF OZ TO DEVELOP NEW GUARDIANS</a>
 <span style="font-size: 10">In a recent interview on the Late Night Show, XLNT Corp’s CEO reveals that they will be the manufacturing partner for the latest line of GUARDIANS. The partnership is to address the growing problem...(more)</span>
 <p>
+<span id="k">WELCOME TO THE CITY OF OZ</span>
