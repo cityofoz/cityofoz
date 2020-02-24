@@ -3,7 +3,8 @@ unknown_user#@log:~$ login CITYOFOZ_NET
 </span>
 <span id="k">WELCOME TO THE CITY OF OZ</span>
 <p>
-<a href="https://www.youtube.com/watch?v=T5Xeat06R28" target="new">XLNT CORP. PARTNERS WITH THE CITY OF OZ TO DEVELOP NEW GUARDIANS</a>
+<a href="https://www.youtube.com/watch?v=T5Xeat06R28" target="new"><i>XLNT CORP. PARTNERS WITH THE CITY OF OZ TO DEVELOP NEW GUARDIANS</a>
 <span style="font-size: 10">In a recent interview on the Late Night Show, XLNT Corp’s CEO reveals that they will be the manufacturing partner for the latest line of GUARDIANS. The partnership is to address the growing problem...(more)</span>
 <p>
 <img src="img/ad_dreampill.gif">
+</i>
