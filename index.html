@@ -1,8 +1,9 @@
 
 <html> 
   <head> 
-    <title>WELCOME TO THE CITY OF OZ _ NET (v8)</title> 
+    <title>WELCOME TO THE CITY OF OZ _ NET (v9)</title> 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="styles/index.css" href="https://fonts.googleapis.com/css?family=Lucida+Console">
     <style>
     html, body {
@@ -18,14 +19,19 @@
     </style>
   </head> 
  <body>
-<div style="height:auto;width:150px;margin-top:40px;width:100%;text-align:left;background-color:#FF0000;float:left">
-<p style="color:white;font-size:11px">unknown_user1 ❯
-          <span contenteditable="true" class="input"></span>
-        </p>
-    </div>
 <div id="console">
       <p><script type="text/javascript" src="js/index.js"> 
     </script> 
    </div>
+  <button id="trigger">Click me</button>
+      <div id="overlay">
+         <div id="popup">
+            <div id="close">X</div>
+            <h2>MESSAGE BOX</h2>
+ <p>unknown_user1 ❯ <span contenteditable="true" class="input"></span>
+        </p>  
+<p>You just triggered a popup</p>
+ </div>
+   </div> 
   </body> 
 </html> 
