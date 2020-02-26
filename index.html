@@ -23,6 +23,15 @@
       <p><script type="text/javascript" src="js/index.js"> 
     </script> 
    </div>
+$(document).ready(function() {
+   $('#trigger').click(function() {
+      $('#overlay').fadeIn(300);
+   });
+
+   $('#close').click(function() {
+      $('#overlay').fadeOut(300);
+   });
+});
   <button id="trigger">Click me</button>
       <div id="overlay">
          <div id="popup">
