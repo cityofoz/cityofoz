@@ -20,8 +20,3 @@ partnership is to address the growing problem...(more)</span>
 <img src="img/ad_instantesspresso.gif">
 <p>
 <span id="k">WELCOME TO THE CITY OF OZ</span>
-<div style="position:relative;bottom:0;height:auto;margin-top:40px;width:100%;text-align:left;background-color:#FF0000">
-<p style="color:white;font-size:11px">unknown_user1 ❯
-          <span contenteditable="true" class="input"></span>
-        </p>
-    </div>
