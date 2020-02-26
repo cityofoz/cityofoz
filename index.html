@@ -1,7 +1,7 @@
 
 <html> 
   <head> 
-    <title>WELCOME TO THE CITY OF OZ _ NET (v10)</title> 
+    <title>WELCOME TO THE CITY OF OZ _ NET (v11)</title> 
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script> 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="styles/index.css" href="https://fonts.googleapis.com/css?family=Lucida+Console">
@@ -9,19 +9,42 @@
     html, body {
       font-family: Lucida Console, monotype;
       font-style: italic;
-      width: 100%;
-      height: 100%;
-      margin: 0px;
-      border: 0;
-      /* overflow: hidden;   Disable scrollbars */
-      /* display: block;   No floating content on sides */
-    }
+
+    margin: 0
+}
+
+.container {
+    display: flex; 
+}
+
+.sidenav {
+	height: 100vh;
+    width: 200px;
+    float: left;
+    position: relative;
+    background-color: red;
+}
+
+.content {
+	height: 100vh;
+	width: calc(100% - 200px);
+    float: right;
+    position: relative;
+    background-color: black;
+}
     </style>
   </head> 
  <body>
+<div class="container">
+    <div class="sidenav">
+unknown_user1 ❯ <span contenteditable="true" class="input"></span>
+</div>
+    <div class="content">
 <div id="console">
       <p><script type="text/javascript" src="js/index.js"> 
     </script> 
+   </div>
+  </div>
    </div>
   </body> 
 </html> 
